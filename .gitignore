@@ -1,0 +1,11 @@
+node_modules
+original_videos
+static
+logs
+.vscode
+certificate
+
+Makemedia.exe
+test.js
+/config/index.js
+packager.exe

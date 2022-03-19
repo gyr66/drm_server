@@ -1,0 +1,27 @@
+{
+  "name": "DRM_Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ali-oss": "^6.17.1",
+    "axios": "^0.26.1",
+    "axios-retry": "^3.2.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^6.4.2",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node-uuid": "^1.4.8",
+    "tus-node-server": "^0.5.1"
+  }
+}
